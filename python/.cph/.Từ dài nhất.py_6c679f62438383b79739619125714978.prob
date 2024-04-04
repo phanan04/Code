@@ -1,0 +1,1 @@
+{"name":"Local: Từ dài nhất","url":"d:\\CNTT\\Code\\python\\Từ dài nhất.py","tests":[{"id":1712113154000,"input":"a2 b12 c d01 e123456 d089","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CNTT\\Code\\python\\Từ dài nhất.py","group":"local","local":true}
